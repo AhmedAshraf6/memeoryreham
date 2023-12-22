@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import PowerPointViewer from './PowerPoint';
 
 export default function App() {
   useEffect(() => {}, []);
